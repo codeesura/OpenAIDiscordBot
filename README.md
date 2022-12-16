@@ -86,4 +86,6 @@ https://discordpy.readthedocs.io/en/stable/intro.
 
 https://pypi.org/project/discord.py/
 
-
+```cmd
+git clone https://github.com/codeesura/OpenAIDiscordBot
+```
