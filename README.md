@@ -73,6 +73,7 @@ OpenAI library :
 pip install openai
 ```
 https://github.com/openai/openai-python
+
 https://pypi.org/project/openai/
 
 Discord library :
@@ -80,7 +81,9 @@ Discord library :
 pip install discord.py
 ```
 https://github.com/Rapptz/discord.py
-https://discordpy.readthedocs.io/en/stable/intro.html
+
+https://discordpy.readthedocs.io/en/stable/intro.
+
 https://pypi.org/project/discord.py/
 
 
