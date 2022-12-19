@@ -89,3 +89,15 @@ https://pypi.org/project/discord.py/
 ```cmd
 git clone https://github.com/codeesura/OpenAIDiscordBot
 ```
+
+# Results
+
+![image](https://user-images.githubusercontent.com/120671243/208423787-139f5722-30e9-432b-a0a6-7f2c42f068c1.png)
+
+![image](https://user-images.githubusercontent.com/120671243/208423825-667f2797-01d5-4bc2-b62d-09ba9982ffd0.png)
+
+![image](https://user-images.githubusercontent.com/120671243/208423865-1d6b8025-822e-437b-8b4f-a635b329d41c.png)
+
+![image](https://user-images.githubusercontent.com/120671243/208424214-9d28d1df-85ce-41f3-b4f0-c62d0ec2fc09.png)
+
+![image](https://user-images.githubusercontent.com/120671243/208424307-19c3d28d-e611-4a3a-9c41-30da0b3eef76.png)
